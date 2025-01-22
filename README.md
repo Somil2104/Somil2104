@@ -47,7 +47,11 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Somil2104&show_icons=true&theme=radical" alt="Somil Jain's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somil2104&theme=radical" alt="Somil Jain's GitHub Streak" />
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Somil2104&show_icons=true&theme=radical" alt="Somil Jain's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somil2104&layout=compact&theme=radical" alt="Somil Jain's Top Languages" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somil2104&layout=compact&theme=radical" alt="Somil Jain's Top Languages" />
 </p>
 
