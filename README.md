@@ -50,17 +50,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somil2104&theme=radical" alt="Somil Jain's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somil2104&theme=radical&count_private=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Somil Jain's Longest Streak" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/Somil2104" target="_blank">
@@ -72,12 +61,6 @@
   <a href="mailto:somiljain2104@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/9ded0429e31c006b64fbd4998fe8a2e7c201e420c7caf50012e98f1c97b67bc5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3361363138362c3130303a383932353365266865696768743d3330302673656374696f6e3d68656164657226746578743d4c6179253230536865746826666f6e7453697a653d363026616e696d6174696f6e3d66616465496e26666f6e74436f6c6f723d46464646464626666f6e74416c69676e593d333526646573633d52757374253230456e74687573696173742532307c253230507974686f6e25323056697274756f736f2532307c2532304d4c253230456e67696e6565722664657363416c69676e593d35352664657363416c69676e3d3530" alt="Custom Badge" />
 </p>
 
 ---
