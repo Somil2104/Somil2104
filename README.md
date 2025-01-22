@@ -24,8 +24,6 @@
 
 ---
 
-
-
 ### 🏆 **Achievements:**  
 - Finalist: IIM Bangalore AI-generated Song Competition (72,000 impressions).  
 - Elite+Silver NPTEL Cloud Computing Certification (Top 2% among 23,872 participants).  
@@ -47,11 +45,6 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Somil2104&show_icons=true&theme=radical" alt="Somil Jain's GitHub Stats" />
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somil2104&show_icons=true&theme=radical" alt="Somil Jain's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somil2104&layout=compact&theme=radical" alt="Somil Jain's Top Languages" />
-</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somil2104&layout=compact&theme=radical" alt="Somil Jain's Top Languages" />
 </p>
 
