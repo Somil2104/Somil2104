@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Somiljain.png" alt="Your Header Image"> 
+</p>
 <h1 align="center">👋 Hello, I'm Somil Jain</h1>
 <h3 align="center">🚀 Computer Science Enthusiast | Software Developer | UI/UX Designer</h3>
 
