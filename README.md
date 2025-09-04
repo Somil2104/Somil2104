@@ -9,51 +9,78 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Programming-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Flask-lightgrey?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-FastAPI-green?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-Kotlin-brightgreen?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Design-Figma-yellow?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Photoshop-blue?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **Education:** Computer Science and Engineering @ VIT Bhopal (CGPA: 8.75/10, 6th Semester)
+
+- 🎓 **Education:** B.Tech Computer Science and Engineering @ VIT Bhopal (CGPA: 8.82/10, Sept’2022 – May’2026)
 - 💡 **Passionate About:**  
-  - AI-powered solutions, including **OCR** and **Smart Forecasting**  
-  - UI/UX Design with tools like **Figma** and **Photoshop**  
-  - Developing impactful mobile and web applications  
-- 🌱 **Currently Learning:** Fully Homomorphic Encryption (FHE), Embedded Systems (8051 Microprocessor)
+  - AI-powered solutions, including **OCR**, **Smart Forecasting**, Data Analysis  
+  - UI/UX Design with tools like **Figma**, **Canva**, **Photoshop**  
+  - Developing impactful mobile and web applications
+- 🌱 **Currently Learning:** DevOps, RDBMS, Spring Boot, Microservice Architecture, Big Data (Hive/Hadoop/Spark), Operating Systems[attached_file:1]
 
 ---
 
-### 🏆 **Achievements:**  
-- Finalist: IIM Bangalore AI-generated Song Competition (72,000 impressions).  
-- Elite+Silver NPTEL Cloud Computing Certification (Top 2% among 23,872 participants).  
-- Hack-a-Holic Finalist: Advanced as the only first-year team.  
+## 💼 Experience
+
+- **AI DevOps Apprentice | DBS Tech India (Jun 2025 – Present)**
+  - Structured training in Operating Systems, Application Security, MariaDB, Java, RESTful APIs, Spring Boot, Microservices, Big Data, and more
+- **Software Engineer Intern | VE Commercial Vehicles Limited (Oct 2024 – Dec 2024)**
+  - Developed Python/OpenCV system to extract and recognize cabin numbers from industrial images using EasyOCR (peak 91% accuracy)
+  - Automated inspection for three different cabin types; built API integrations for seamless data transfer[attached_file:1]
 
 ---
 
-## 🔧 Technical Skills
-- **Programming Languages:** Python, Java, JavaScript, C++, Solidity  
-- **Frameworks & Libraries:** Flask, React.js, Node.js, pandas, numpy  
-- **Databases:** PostgreSQL, MongoDB  
-- **Tools:** Figma, Canva, Adobe Photoshop  
-- **Certifications:**  
-  - Cloud Computing (IIT Kharagpur)  
-  - The Bits and Bytes of Computer Networking (Google)  
+## 🛠 Technical Skills
+
+- **Programming Languages:** Python, C/C++, JavaScript, Matlab/R, HTML/CSS
+- **Frameworks & Libraries:** Flask, FastAPI, Node.js, React, JQuery, Keras, Numpy, Pandas
+- **Databases:** PostgreSQL, MongoDB, Firestore
+- **Cloud/Tools:** AWS, Git, Linux, Windows, Figma, Canva, Photoshop[attached_file:1]
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somil2104&show_icons=true&theme=radical" alt="Somil Jain's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somil2104&layout=compact&theme=radical" alt="Somil Jain's Top Languages" />
-</p>
+## 🚀 Projects
+
+- **Dost-Bot | AI-Powered Journal Application**
+  - React, FastAPI, Hugging Face, NLP, Sentiment Analysis
+  - AI-driven journal app using Google FLAN-T5-large model for real-time emotional insights and personalized responses
+
+- **RetailIQ | Smart Inventory Forecasting and Customer Retention**
+  - Flask, Node.js, React, Machine Learning
+  - ML-powered customer retention and inventory forecasting using Random Forest, XGBoost[attached_file:1]
+
+---
+
+## 🏆 Achievements
+
+- 13th/500+ ZelestraXaws Data Challenge (Second Edition), among 7000+ participants
+- Amdocs GenAI Graduate Hackathon (2024–25): Semi-Finalist, top 1% among 10,893 participants
+- Cleared first rounds in Nokia’s Accelerate Her in Tech Hackathon, top ranks from 30,000+ participants[attached_file:1]
+
+---
+
+## 🌟 Additional Information
+
+- Fluent English & Hindi communication
+- Regular stock market analysis for investment insight and decision-making
+- Model United Nations delegate, awarded High Commendation at CNMUN
+- **UI/UX Lead, Android Club, VIT Bhopal:** Led a team of 4 UI/UX developers & 5 designers for college Android projects; mentored in best design practices[attached_file:1]
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://github.com/Somil2104" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
